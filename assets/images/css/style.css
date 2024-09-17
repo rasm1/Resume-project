@@ -40,7 +40,7 @@ h1,h2,h3,h4{
     display: table;
 }
 
-.section-collumn{
+.section-column{
     display: table-cell;
     padding:0 30px 30px;
     float:none;
@@ -175,4 +175,16 @@ footer{
 
 #footer-details{
     padding: 20px;
+}
+
+/* ------------------------------- three reasons */
+
+.three-reasons-icon{
+    font-size:26px ;
+    color:#e67e22;
+}
+
+.three-reasons-heading{
+  margin-bottom: 15px;
+
 }
